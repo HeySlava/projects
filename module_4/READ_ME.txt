@@ -1,3 +1,6 @@
+Ссылка на презентацию:
+https://docs.google.com/presentation/d/1m3UP18ey2dcYBR_HJ2UzM8YG5RnDffRrh84yzB-TwNE/edit?usp=sharing
+
 ЗАДАЧА
 
 Напомним, что вам предстоит выяснить, от каких самых малоприбыльных рейсов из Анапы мы можем отказаться в зимнее время. Вы не знаете, 
